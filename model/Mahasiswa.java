@@ -2,10 +2,10 @@ package model;
 
 public class Mahasiswa{
  public static void tampilaninfo(){
-   system.out.println();
-   system.out.println("==Data Mahasiswa ===============");
-   system.out.println("NIDN : 18630864");
-   system.out.println("Nama : Ruddy");
-   system.out.println("==========================");
+   System.out.println();
+   System.out.println("==Data Mahasiswa ===============");
+   System.out.println("NPM : 18630864");
+   System.out.println("Nama : Ruddy");
+   System.out.println("==========================");
  }
 }   

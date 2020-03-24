@@ -7,8 +7,8 @@ public class Main{
  public static void main(String [] args){
  System.out.println("ini program main");
  Database.hubungkan();
- Dosen.Tampilaninfo();
- Mahasiswa.Tampilaninfo();
- Matakuliah.Tampilaninfo();
+ Dosen.tampilaninfo();
+ Mahasiswa.tampilaninfo();
+ Matakuliah.tampilaninfo();
  }
 }
